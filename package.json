@@ -1,0 +1,13 @@
+{
+  "name": "real-liquid-glass",
+  "version": "1.0.0",
+  "description": "Real-time glass refraction library using Three.js",
+  "main": "src/GlassSurface.js",
+  "scripts": {
+    "dev": "vite demo",
+    "build": "vite build demo"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
